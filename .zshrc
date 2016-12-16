@@ -60,7 +60,7 @@ plugins=(git zsh-autosuggestions bundler osx rake ruby rails last-working-dir np
 
 # User configuration
 
-export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/$(whoami)/.rvm/gems/ruby-2.2.2/bin:/Users/$(whoami)/.rvm/gems/ruby-2.2.2@global/bin:/Users/$(whoami)/.rvm/rubies/ruby-2.2.2/bin:/usr/local:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/$(whoami)/.rvm/bin:/Users/$(whoami)lajara/.rvm/bin"
+export PATH="$PATH:/usr/bin:/bin:/usr/sbin:/sbin:/Users/$(whoami)/.rvm/gems/ruby-2.2.2/bin:/Users/$(whoami)/.rvm/gems/ruby-2.2.2@global/bin:/Users/$(whoami)/.rvm/rubies/ruby-2.2.2/bin:/usr/local:/usr/local/bin:/usr/local/sbin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/$(whoami)/.rvm/bin"
 #export PATH="$PATH:/Users/$(whoami)/.rvm/gems/ruby-2.2.2/bin:/Users/$(whoami)/.rvm/gems/ruby-2.2.2@global/bin:/Users/$(whoami)/.rvm/rubies/ruby-2.2.2/bin:/usr/local:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Postgres.app/Contents/Versions/9.4/bin:/Users/$(whoami)/.rvm/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
